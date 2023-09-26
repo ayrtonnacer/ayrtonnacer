@@ -1,4 +1,4 @@
-#👋 I’m Ayrton Nacer, a passionate Data Scientist with over 4 years of experience. My mission is to turn data into valuable strategies.
+# 👋 I’m Ayrton Nacer, a passionate Data Scientist with over 4 years of experience. My mission is to turn data into valuable strategies.
 
 💼 My journey began unconventionally: my fascination with mathematics and patterns led me to believe in the power of data to unravel uncertainty. My main skill set includes Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, SQL, Docker, and Data Studio, among other tools. These capabilities allow me to carry out advanced data analysis with exceptional precision.
 
