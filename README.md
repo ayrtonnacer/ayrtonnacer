@@ -2,5 +2,5 @@ Data Scientist with more than 4 years of experience. My skill set includes a wid
 
 Currently, I am exploring a fascinating field at the intersection of technology and finance, known as quantitative trading. My goal is to develop algorithms that can analyze large amounts of market data in real time, make decisions based on the patterns they find and execute operations at a speed and precision that would be impossible for a human.
 
-Feel free to contact me at info@ayrtonnacer.com.
-You can also explore some of my latest projects at www.ayrtonnacer.com
+Feel free to contact me at info@ayrtonnacer.com
+
